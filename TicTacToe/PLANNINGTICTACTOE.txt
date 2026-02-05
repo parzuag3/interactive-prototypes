@@ -1,0 +1,18 @@
+This program uses a custom game logic that simulates a game of Tic Tac Toe. First, two programs are made, one that will contain code to open the board as a new tab, and another program that
+will contain code that constructs the logic of the game. The board program will be called Program.cs, and the logic program will be called TicTacToe.cs. The following directives will be
+added to TicTacToe.cs:
+
+System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+Two functions will be made, one that will label Player 1's inputs as X, and Player 2's inputs as O's. The other function will be the board itself, specifically being methods that will 
+create the rows and columns that make up the board.
+
+Multiple public boolean functions are made to check the progress of the board. One contains For, If, and Return loops, which check the number and placement of each placed input from the
+players. Beneath this function contains a number of win condition statements, including if Player 1 or Player 2 wins with a horizontal line, a vertical line, or a diagonal line.
+
+A void setPlayerMove function is made to simulate the turn-based motion of the game, using If Else loops with the enum Player values.
+
+A void reset function is then made, which resets the board.
