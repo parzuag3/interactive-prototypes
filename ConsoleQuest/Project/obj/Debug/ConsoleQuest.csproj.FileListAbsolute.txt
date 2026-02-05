@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\bin\Debug\ConsoleQuest.exe.config
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\bin\Debug\ConsoleQuest.exe
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\bin\Debug\ConsoleQuest.pdb
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\obj\Debug\ConsoleQuest.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\obj\Debug\ConsoleQuest.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\obj\Debug\ConsoleQuest.exe
+C:\Users\sonic\OneDrive\Desktop\ConsoleQuest\ConsoleQuest\Project\obj\Debug\ConsoleQuest.pdb

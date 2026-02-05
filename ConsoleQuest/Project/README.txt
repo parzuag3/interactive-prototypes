@@ -1,0 +1,3 @@
+My name is Pedro Arzuaga III, and this game is ConQuest: Jon's Sole Search. You play as Jon, a novice adventurer ready to venture the
+wildlife. Prompts are given to you, each telling a brief description of an action Jon can take throughout his journey. Discover scenic
+rivers, fight nasty goblins, or check your findings while you rest at the tavern! The Quest, Jon's Sole Search, is yours to Consider.
