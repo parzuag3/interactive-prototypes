@@ -1,0 +1,14 @@
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.exe
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.deps.json
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.runtimeconfig.json
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.runtimeconfig.dev.json
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.dll
+C:\Users\Tifff\source\repos\class10262022\class10262022\bin\Debug\netcoreapp3.1\class10262022.pdb
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.csproj.AssemblyReference.cache
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.AssemblyInfoInputs.cache
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.AssemblyInfo.cs
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.csproj.CoreCompileInputs.cache
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.dll
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.pdb
+C:\Users\Tifff\source\repos\class10262022\class10262022\obj\Debug\netcoreapp3.1\class10262022.genruntimeconfig.cache
