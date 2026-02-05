@@ -1,0 +1,4 @@
+The name of this game is "Speed Math Test", made by Pedro Arzuaga III. You will be asked five random math questions that use the basic mathematical operations arithmetic; addition, subtraction, multiplication, and division. Only the 
+first answer will be shown when you open the application, as well as a space for you to enter your solution. Once you enter your answer, the next question will show up on the screen under the first question and solution, as well as
+another space to enter a solution. This will repeat until you enter your fifth answer, in which the game will show you which questions you answered correctly, which questions you answered incorrectly, how long it took you to take this
+test, and a comment on your results.

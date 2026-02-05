@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pedro_Arzuaga_Project2_GAM110/1.0.0": {
+        "runtime": {
+          "Pedro_Arzuaga_Project2_GAM110.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedro_Arzuaga_Project2_GAM110/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

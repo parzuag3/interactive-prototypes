@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.exe
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.deps.json
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.runtimeconfig.json
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.dll
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\bin\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.pdb
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.dll
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.pdb
+C:\Users\Pedro\source\repos\Pedro_Arzuaga_Project2_GAM110\Pedro_Arzuaga_Project2_GAM110\obj\Debug\netcoreapp3.1\Pedro_Arzuaga_Project2_GAM110.genruntimeconfig.cache
